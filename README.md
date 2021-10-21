@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </a>
 
 - 🌱 Focus on Golang.
-- 🔭 Study in hdu.
 - 🏠 Blog at [blog.aflybird.cn](https://blog.aflybird.cn)
 - 📫 Reach me by aflybird0@gmail.com.
 - 📖 Love Reading.
