@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=aFlyBird0&show_icons=true&hide_border=true&count_private=true" width="45%" />
 </a>
 
-- 🌱 Focus on Golang.
+- 🌱 Focus on Cloud Native, Golang.
 - 🏠 Blog at [blog.aflybird.cn](https://blog.aflybird.cn)
 - 📫 Reach me by aflybird0@gmail.com.
 - 🧑 Core of [HDUHELP](https://github.com/hduhelp).
