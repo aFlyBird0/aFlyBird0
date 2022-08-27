@@ -16,6 +16,7 @@
   <a href="https://www.credly.com/badges/59c69146-58a7-471d-a908-bc5a0b7f5f6f">
     <img width="200" height="200" src="https://images.credly.com/size/680x680/images/0004a828-38f8-4f4a-847c-a271adfc986a/image.png" alt="trophy" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/af3fd3e9-2afe-4994-96ee-2fa4a9967cfe">
     <img width="200" height="200" src="https://images.credly.com/size/680x680/images/85286156-5fa6-458e-ae00-7887360a025d/image.png" alt="trophy" />
   </a>
