@@ -15,27 +15,13 @@
 
 ### Talks
 
-<p align="center"> 
-<a href="https://www.bilibili.com/video/BV19T411m7ak/">
-  <img height="200" src="https://user-images.githubusercontent.com/36830265/213650570-3bf580f8-fc1b-4db3-96da-6c2547389a31.png" alt="Before Good First Issue" />
-</a>
+[Experience With Open Source](https://www.bilibili.com/video/BV19T411m7ak/) | [Talks About "Brave"](https://www.bilibili.com/video/BV19T411m7ak/)
+--- | --- |
+<img height="200" src="https://user-images.githubusercontent.com/36830265/213650570-3bf580f8-fc1b-4db3-96da-6c2547389a31.png" alt="Experience With Open Source" /> | <img height="200" alt="image" src="https://user-images.githubusercontent.com/36830265/213651418-6b33f509-b996-4736-a53d-f00a5de35548.png" alt="Talks About Brave">
 
-<a href="https://www.bilibili.com/video/BV1ka411h7Bw/">
-  <img height="200" alt="image" src="https://user-images.githubusercontent.com/36830265/213651418-6b33f509-b996-4736-a53d-f00a5de35548.png" alt="自然辩证法演讲">
-</a>
-</p>
-
-<p align="center"> 
-<a href="https://www.bilibili.com/video/BV1YN4y1V7Rf">
-  <img height="200" src="https://user-images.githubusercontent.com/36830265/213651956-ea8fa231-e485-46c7-abd5-b7e73176aa2d.png" alt="GLCC中期考核" />
-</a>
-
-
-<a href="https://www.bilibili.com/video/BV1tR4y1R774">
-  <img height="200" src="https://user-images.githubusercontent.com/36830265/213652020-a16eae26-f549-48d0-8198-132122b18f73.png" alt="GLCC结项考核" />
-</a>
-</p>
-
+[Apache Shenyu Helm Chart(Mid-Term)](https://www.bilibili.com/video/BV1YN4y1V7Rf) | [Apache Shenyu Helm Chart(End of Project)](https://www.bilibili.com/video/BV1tR4y1R774)
+--- | --- |
+<img height="200" src="https://user-images.githubusercontent.com/36830265/213651956-ea8fa231-e485-46c7-abd5-b7e73176aa2d.png" alt="Apache Shenyu Helm Chart(Mid-Term)" /> | <img height="200" src="https://user-images.githubusercontent.com/36830265/213652020-a16eae26-f549-48d0-8198-132122b18f73.png" alt="Apache Shenyu Helm Chart(End of Project)">
 
 <!-- - Certifications
 <p align="center"> 
