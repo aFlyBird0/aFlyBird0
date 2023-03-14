@@ -15,7 +15,7 @@
 
 ### Talks
 
-[Experience With Open Source](https://www.bilibili.com/video/BV19T411m7ak/) | [Talks About "Brave"](https://www.bilibili.com/video/BV19T411m7ak/)
+[Experience With Open Source](https://www.bilibili.com/video/BV19T411m7ak/) | [Talks About "Brave"](https://www.bilibili.com/video/BV1ka411h7Bw/)
 --- | --- |
 <img height="200" src="https://user-images.githubusercontent.com/36830265/213650570-3bf580f8-fc1b-4db3-96da-6c2547389a31.png" alt="Experience With Open Source" /> | <img height="200" alt="image" src="https://user-images.githubusercontent.com/36830265/213651418-6b33f509-b996-4736-a53d-f00a5de35548.png" alt="Talks About Brave">
 
