@@ -9,7 +9,7 @@
 - 📫 Reach me by aflybird0@gmail.com.
 - 🧑 Maintainer of [HDUHELP](https://github.com/hduhelp).
 - 🏰 Member of [DevStream](https://github.com/devstream-io/devstream)(CNCF Sandbox project).
-- 👶 Contributor of [Apache ShenYu](https://github.com/apache/shenyu)(https://github.com/apache/shenyu-helm-chart).
+- 👶 Contributor of [Apache ShenYu](https://github.com/apache/shenyu)
 - 📖 Love Open Source & Talking & Reading.
 - 👋 Look forward to your communication.
 
